@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "notes": "Corrección de interfaz responsive y sistema de actualizaciones automáticas.",
-  "publishedAt": "2026-08-13T02:59:00-04:00",
-  "downloadUrl": "https://github.com/Carranzaby144/CarranCell-Updates/releases/latest/download/CarranCell-Setup-2.0.2.exe",
-  "sha256": "161739EE79B0CBC608006E5BE48DFB61FAD40D936DAFF197764CD9C1E1D19DD6"
+  "version": "2.0.3",
+  "notes": "Logo oficial de CarranCell y mejoras de seguridad de sesión.",
+  "publishedAt": "2026-08-13T03:35:00-04:00",
+  "downloadUrl": "https://github.com/Carranzaby144/CarranCell-Updates/releases/latest/download/CarranCell-Setup-2.0.3.exe",
+  "sha256": "988179078199116EC1993AC67ECD7A8490E8354B644E1148C0F19397E06E8B405"
 }
