@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "notes": "Correcciones y mejoras.",
-  "publishedAt": "2026-08-13T00:00:00Z",
-  "downloadUrl": "https://github.com/Carranzaby144/CarranCell-Updates/releases/latest/download/CarranCell-Setup-2.0.1.exe",
-  "sha256": "4ea125ba8d34355654a48082984a24bd994a74e3d29c2011a55f3543578f268e"
+  "version": "2.0.2",
+  "notes": "Corrección de interfaz responsive en pantallas pequeñas.",
+  "publishedAt": "2026-08-13T02:22:00-04:00",
+  "downloadUrl": "https://github.com/Carranzaby144/CarranCell-Updates/releases/latest/download/CarranCell-Setup-2.0.2.exe",
+  "sha256": "3ec4c1406aff262997132f4bf600cbb87085c9ab36498c28937d449520f4689d"
 }
